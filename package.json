@@ -1,0 +1,24 @@
+{
+  "name": "monz",
+  "version": "0.0.1",
+  "description": "monitoring & operations tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-onz/monz.git"
+  },
+  "keywords": [
+    "microservices",
+    "operations",
+    "monitoring"
+  ],
+  "author": "monz <stphnmnslw@gmail.com> (https://monz.ghost.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m-onz/monz/issues"
+  },
+  "homepage": "https://github.com/m-onz/monz#readme"
+}
