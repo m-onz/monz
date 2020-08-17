@@ -7,4 +7,4 @@
 * fun times: i play around with p2p, distributed systems, microcontrollers and esoteric programming languages in my spare time
 * talents: i'm also a saxophonist, musician and music producer & jazz funk record collector
 * pronouns: him/he
-* how to reach me: good luck :)
+* how to reach me: https://monz.directory
