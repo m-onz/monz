@@ -1,9 +1,15 @@
 # monz
-<hr>
+
+<hr/>
+
 ## about
 inventor... (mad scientist?).... and much much more....
 
-<hr>
+<hr/>
+
 ## music
-[bandcamp](https://m-onz.bandcamp.com) <br />
+[bandcamp](https://m-onz.bandcamp.com) 
+
+<br/>
+
 [soundcloud](https://soundcloud.com/m-onz)
