@@ -1,4 +1,4 @@
-# monz
+# `m-onz`
 
 > "Come friends, it's not too late to seek a newer world." - Alfred Lord Tennyson
 
@@ -7,6 +7,10 @@
 * mad scientist
 * inventor
 
-## personal website
+## `personal website`
+
+* music
+* blog
+* miscellaneous
 
 [slumcouncil](https://slumcouncil.ch)
