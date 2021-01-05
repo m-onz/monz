@@ -6,3 +6,7 @@
 * web security
 * mad scientist
 * inventor
+
+## personal website
+
+[slumcouncil](https://slumcouncil.ch)
