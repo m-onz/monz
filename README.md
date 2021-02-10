@@ -12,7 +12,7 @@ I like using node js and javascript because its a flexible scripting language th
 
 Writing software is hard, lets stand on each others shoulders and not on each others toes! Writing robust software involves understanding architecture. If you need resillient code make sure your not re-writing it all the time. Small & simple things are more robust than large complex things.. When dealing with boring sequential apps and systems that you have control over you tend to work more sloppily and ignore entropy and bad design.
 
-# `some of my favourites tech`
+# `some of my favourite tech`
 
 * scuttlebutt & pull-streams
 * dat and hypercore
@@ -25,3 +25,12 @@ Writing software is hard, lets stand on each others shoulders and not on each ot
 * dominictarr
 * substack
 * mafintosh
+
+# `contact`
+
+* on scuttlebutt: @xX4fSbR38HrgxDq1al1fjrQABxCybokAEFXcZ758840=.ed25519
+* via email: ancientsorcerer@startmail.com
+
+# `blog`
+
+* my tech blog: [ancientsorcerer.com](https://ancientsorcerer.com)
