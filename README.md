@@ -12,3 +12,5 @@
 # `blog`
 
 * my tech blog: [ancientsorcerer.com](https://ancientsorcerer.com)
+
+I didn't realise how much i like simplified markdown
