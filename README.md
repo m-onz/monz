@@ -6,28 +6,6 @@
 * test automation
 * ssb enthusiast!
 
-# `interests`
-
-* cryptography
-* p2p protocols and DAPPS
-* distributed systems architecture and systems design
-* cryptocurrencies and digital money
-* experimental token based digital money for offline transactions
-* datastructures and databases
-
-# `languages i use`
-
-* js
-* c
-* erlang
-* lisp
-* LFE
-* supercollider & haskell
-* miranda
-* pure data (visual coding)
-
-# `contact`
-
 * on scuttlebutt: @xX4fSbR38HrgxDq1al1fjrQABxCybokAEFXcZ758840=.ed25519
 * via email: ancientsorcerer@startmail.com
 
