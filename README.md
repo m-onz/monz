@@ -4,9 +4,26 @@
 * full stack node js
 * p2p and distributed systems
 * test automation
-* mad science
-* reading code
-* always reading the manual first
+* ssb enthusiast!
+
+# `interests`
+
+* cryptography
+* p2p protocols and DAPPS
+* distributed systems architecture and systems design
+* cryptocurrencies and digital money
+* experimental token based digital money for offline transactions
+* datastructures and databases
+
+# `languages in order of profficiency`
+
+* js
+* c
+* erlang
+* lisp
+* LFE
+* supercollider & haskell
+* miranda
 
 # `contact`
 
