@@ -15,7 +15,7 @@
 * experimental token based digital money for offline transactions
 * datastructures and databases
 
-# `languages in order of profficiency`
+# `languages i use`
 
 * js
 * c
@@ -24,6 +24,7 @@
 * LFE
 * supercollider & haskell
 * miranda
+* pure data (visual coding)
 
 # `contact`
 
