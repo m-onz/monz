@@ -1,6 +1,6 @@
 # `dpr0g`
 
-deprogramming
+deprogram
 
 ## `links`
 
@@ -11,7 +11,5 @@ deprogramming
 email: [dpr0g@use.startmail.com](mailto:dpr0g@use.startmail.com)
 
 # `old music archive`
-
-This is where conventional music (with a clear genre) lives.
 
 * [brainfog](https://brainfog-music.bandcamp.com)
