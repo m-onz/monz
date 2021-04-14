@@ -1,22 +1,17 @@
-# `m-onz`
-```
-test driven development
-full stack node js
-p2p and distributed systems
-test automation
-saxophonist, drummer (multi instrumentalist)
-algorithmic composer and music producer
-projection mapper and vj (visual art)
-ssb enthusiast!
-on scuttlebutt: @xX4fSbR38HrgxDq1al1fjrQABxCybokAEFXcZ758840=.ed25519
-via email: ancientsorcerer@startmail.com
-```
-# `blog`
+# `dpr0g`
 
-* my tech blog: [ancientsorcerer.com](https://ancientsorcerer.com)
+deprogramming
 
-# `music`
+## `links`
 
-Music is royalty free an under creative commons licence.
+* [vimeo](https://vimeo.com/dpr0g)
+* [soundcloud](https://soundcloud.com/user-68096537)
+* [bandcamp](https://dpr0g.bandcamp.com/) 
+
+email: [dpr0g@use.startmail.com](mailto:dpr0g@use.startmail.com)
+
+# `old music archive`
+
+This is where conventional music (with a clear genre) lives.
 
 * [brainfog](https://brainfog-music.bandcamp.com)
