@@ -1,5 +1,3 @@
-# `depr0g`
+# `dpr0g`
 
-pronounced: de prog
-
-fully deprogrammed
+hoping to deprogram you with light and sound
