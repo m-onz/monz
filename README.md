@@ -1,3 +1,5 @@
-# `dpr0g`
+# `depr0g`
+
+pronounced: de prog
 
 fully deprogrammed
