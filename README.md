@@ -1,3 +1,3 @@
 # `dpr0g`
 
-hoping to deprogram you with light and sound
+hoping to deprogram you with sound and light
