@@ -1,3 +1,3 @@
 # `dpr0g`
 
-deprogram
+fully deprogrammed
