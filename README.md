@@ -1,7 +1,3 @@
 # `m-onz`
-
-m-onz pronounced monz
-
-# `contact`
-
+## `contact`
 [Email](mailto:m-onz@use.startmail.com)
