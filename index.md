@@ -22,7 +22,7 @@ Live coding algorave audio/visual performance using [pure data & GEM](https://pu
 <iframe src="https://player.vimeo.com/video/64168618" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## `links`
-* [bandcamp](https://vjmonz.bandcamp.com)
+* [bandcamp](https://m-onz.bandcamp.com)
 * [algovj (now defunct)](https://vimeo.com/algovj)
 * [old vj monz video](https://vimeo.com/64168618)
 
@@ -40,4 +40,4 @@ Live coding algorave audio/visual performance using [pure data & GEM](https://pu
 
 ## `contact`
 
-* [email me](mailto:vjmonz@use.startmail.com)
+* [email me](mailto:m-onz@use.startmail.com)
