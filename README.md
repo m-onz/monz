@@ -16,4 +16,4 @@ An early algorithmic experiment...
 
 [m-onz.net](https://m-onz.net) my personal website
 
-[old bandcamp](https://brainfog.bandcamp.com) non algorithmic music I made before I became enlightened.
+[old music](https://brainfog-music.bandcamp.com) non algorithmic music I made before I became enlightened.
