@@ -13,5 +13,7 @@ An early algorithmic experiment...
 ## links
 
 [fakedac~](https://fakedac.net) an event I run focused on AV and algorithmic music & visuals.
+
 [m-onz.net](https://m-onz.net) my personal website
+
 [old bandcamp](https://brainfog.bandcamp.com) non algorithmic music I made before I became enlightened.
