@@ -1,3 +1,4 @@
 # `m-onz`
 
-node js, web application security, algorithmic art.
+* node js & javascript developer
+* audio visual algorithmic art
