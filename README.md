@@ -1,4 +1,4 @@
 # `m-onz`
 
-* node js & javascript developer
+javascript & node developer
 * audio visual algorithmic art
