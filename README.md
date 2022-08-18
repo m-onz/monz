@@ -1,5 +1,5 @@
 # `m-onz`
 
 * javascript & node developer
-* audio visual algorithmic art
-* spare time web hacker
+* audio visual algorithmic artist
+* spare time web application hacker
